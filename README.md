@@ -25,13 +25,12 @@ Here are some ideas to get you started:
 	</div>
 	<div align="center">
         <div align="center">
-		    <h2>Software Developer and Programmer</h2>
+		    <h2>Full Stack Software Developer JR</h2>
 	    </div>
         <div align="center">
             <p align="left">
-                ¡Hola! 👋 😃 Soy <b>Jhon Alex Marín</b> y vivo en la ciudad de Medellín 🇨🇴 trabajo y estudio programación de software desde el año 2018 y me encanta 😁 empecé sin enteder bien en qué consistía éste estilo de vida pero me ha fascinado. No lo veo como un trabajo, porque más que eso ... para mí es un gran Hobbie 😎 <br>
-                Me encanta el código. mirarlo, refactorizar o crear uno nuevo ... aprender y conocer nuevas tecnologías y lenguajes. Me gusta tanto el back como el front y procuro realizar todo de la mejor manera posible tanto en la parte funcional como en la visual.<br>A causa del trabajo me he enfocado mucho en la web 🌎 pero también a manera personal trabajo el desarrollo de aplicaciones móviles 📱 y a pesar de los años, ver funcionar mis aplicaciones desde mi móvil sigue siendo igual de fascinante que la primera vez 😆
-                <br>Tecnologías en las que trabajo:
+                ¡Hola! 👋 😃 Soy <b>Jhon Alex Marín</b> de Medellín 🇨🇴, un apasionado por el mundo desarrollo y la programación desde el 2018 y aún me considero un inexperto que nunca para de aprender.<br>Por causas laborales me he enfocado mucho en el desarrollo web 🌐 pero a manera de "Hobbie" también desarrollo App's para dispositivos móviles 📱.<br>No importa la cantidad de proyectos, colaboraciones o desarrollos, aún me emociono a reventar cuando la código funciona como si fuera la primera vez 😝.
+                <br><br>Tecnologías en las que trabajo:
             </p>
             <!-- Arch -->
             <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/distributorlogoarchlinux_103805.png" style="width:35px;height:35px">
@@ -81,11 +80,11 @@ Here are some ideas to get you started:
             <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png" style="width:40px;height:35px">
             <!-- MariaBD -->
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mariadb_icon_130403.png" style="width:40px;height:45px">
-            <p align='left'>
-                En el año 2022 tuve el honor y el privilegio de ser parte del grupo de profesores de programación en el <b>Diplomado Front-End con React JS</b> brindado por el <b>Campus FIMLM</b>. En el cual brindé mis conocimientos 🤓 en <b> Git, HTML, CSS, JavaScript • EcmaScript 6+</b> hacia más de 120 estudiantes de todo el país 😉
-                <br><br>
-                No le digas a Dios que tienes un gran problema, más bien dile al problema que tienes un Gran Dios 😀
-            </p>            
+            <p align='left' style="margin-bottom:30px;margin-top:20px">
+                En el año 2022 tuve el honor y el privilegio de ser parte del grupo de profesores de programación en el <b>Diplomado Front-End con React JS</b> brindado por el <b>Campus FIMLM</b> en colaboración del <b>Instituto Tecnológico de Antioquia</b> & <b>Hackdó Community Developers</b>. En el cual brindé mis conocimientos 🤓 en <b> Git, HTML, CSS & JavaScript</b> hacia más de 120 estudiantes de todo el país 😉
+                <br><br>Miembro de la comunidad <b>Women Who Code Medellín</b> desde el año 2023 en la cual también se ha participado en proyectos como el curso de <b>Backend Developer Node JS (from Hero to SuperHero)</b> 
+            </p>    
+                No le digas a Dios que tan grande es el bug 🐞, muéstrale al bug 🐞 ... que tan grande es <b>Dios</b> 😀
         </div>
 		<p style="margin-top:20px">¡ Gracias por visitar mi Perfil !<br>
         <a href="https://jhoemsoftware.com/" target="_blank" style="letter-spacing: 3px">jhoemsoftware.com</a>
