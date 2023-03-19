@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 	    </div>
         <div align="center">
             <p align="left">
-                ¡Hola! 👋 😃 Soy <b>Jhon Alex Marín</b> de Medellín 🇨🇴, un apasionado por el mundo desarrollo y la programación desde el 2018 y aún me considero un inexperto que nunca para de aprender.<br>Por causas laborales me he enfocado mucho en el desarrollo web 🌐 pero a manera de "Hobbie" también desarrollo App's para dispositivos móviles 📱.<br>No importa la cantidad de proyectos, colaboraciones o desarrollos, aún me emociono a reventar cuando el código funciona como si fuera la primera vez 👽.
-                <br><br>Tecnologías en las que trabajo:
+                ¡Hola! 👋 😃 Soy <b>Jhon Alex Marín</b> de Medellín 🇨🇴, me encanta el mundo del desarrollo y la progración informática. Cuando miro hacia el pasado me sorprendo de todo lo que he aprendido, pero soy un alguien que no se cansa de estudiar por lo que me genera curiosidad 🤔 ¿qué podré desarrollar dentro un año? ¿cómo habré mejorado mis capacidades en programación? 😎.<br>Por causas laborales me he enfocado mucho en el desarrollo web 🌐 pero a manera de "Hobbie" también desarrollo App's para dispositivos móviles 📱.<br>No importa la cantidad de proyectos, colaboraciones o desarrollos, siempre me emociono al ver funcionando mis programas, como si fuera la primera vez 😂.
+                <br><br>Tecnologías en las que actualmente trabajo:
             </p>
             <!-- Arch -->
             <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/distributorlogoarchlinux_103805.png" style="width:35px;height:35px">
@@ -58,6 +58,10 @@ Here are some ideas to get you started:
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" style="width:35px;height:35px">
             <!-- Node -->
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" style="width:35px;height:35px">
+            <!-- Vite -->
+            <img src="https://vitejs.dev/logo-with-shadow.png" style="width:35px;height:35px">
+            <!-- Handlebars -->
+            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_handlebars_icon_130555.png" style="width:40px;height:40px">
             <!-- Vue -->
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" style="width:35px;height:35px">
             <!-- React -->
@@ -79,8 +83,8 @@ Here are some ideas to get you started:
             <!-- Mysql -->
             <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png" style="width:40px;height:35px">
             <!-- MariaBD -->
-            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mariadb_icon_130403.png" style="width:40px;height:45px">
-            <p align='left' style="margin-bottom:30px;margin-top:30px">¿No logras reconocer algún logotipo de los que acabo de compartir? Puedes preguntarme si deseas conocer algo o requieras ayuda en algún proceso, que si no lo sé solucionar ... te ayudo a buscar la solución 😅. Me gusta compartir mis conocimientos y ayudar a aquellos que deseen conocer y aprender programación.<br>
+            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mariadb_icon_130403.png" style="width:40px;height:45px;">
+            <p align='left' style="margin-bottom:30px;margin-top:50px">¿No logras reconocer algún logotipo de los que acabo de compartir? 🧐 Puedes preguntarme si deseas conocer algo o requieras ayuda en algún proceso, que si no lo sé solucionar ... te ayudo a buscar la solución 😅. Me gusta compartir mis conocimientos y ayudar a aquellos que deseen conocer y aprender programación.<br>
                 En el año 2022 tuve el honor y el privilegio de ser parte del grupo de profesores de programación en el <b>Diplomado Front-End con React JS</b> brindado por el <b>Campus FIMLM</b> en colaboración del <b>Instituto Tecnológico de Antioquia</b> & <b>Hackdó Community Developers</b>. En el cual brindé mis conocimientos 🤓 en <b> Git, HTML, CSS & JavaScript</b> hacia más de 120 estudiantes de todo el país 😉
                 <br><br>Miembro de la comunidad <b>Women Who Code Medellín</b> desde el año 2023 en la cual también se ha participado en proyectos como el curso de <b>Backend Developer Node JS (from Hero to SuperHero)</b> 
             </p>    
