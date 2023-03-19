@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 </head>
 <body>
 	<div align="center">
-		<img src="https://jhoemsoftware.com/assets/img/jhoem.jpg" style="width: 120px;margin-bottom:20px">
-		<h1>Jhoem Software</h1>
+		<img src="https://jhoemsoftware.com/assets/img/firm.png" style="width: 150px;margin-bottom:20px">
 	</div>
 	<div align="center">
         <div align="center">
