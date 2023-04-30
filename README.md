@@ -53,12 +53,8 @@ Here are some ideas to get you started:
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" style="width:40px;height:40px">
             <!-- JS -->
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" style="width:35px;height:35px">
-            <!-- TS -->
-            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" style="width:35px;height:35px">
             <!-- Node -->
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" style="width:35px;height:35px">
-            <!-- Vite -->
-            <img src="https://vitejs.dev/logo-with-shadow.png" style="width:35px;height:35px">
             <!-- Handlebars -->
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_handlebars_icon_130555.png" style="width:40px;height:40px">
             <!-- Vue -->
@@ -83,14 +79,27 @@ Here are some ideas to get you started:
             <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png" style="width:40px;height:35px">
             <!-- MariaBD -->
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mariadb_icon_130403.png" style="width:40px;height:45px;">
-            <p align='left' style="margin-bottom:30px;margin-top:50px">¿No logras reconocer algún logotipo de los que acabo de compartir? 🧐 Puedes preguntarme si deseas conocer algo o requieras ayuda en algún proceso, que si no lo sé solucionar ... te ayudo a buscar la solución 😅. Me gusta compartir mis conocimientos y ayudar a aquellos que deseen conocer y aprender programación.<br>
+            <p align='left' style="margin-bottom:10px;margin-top:20px">Actualmente me encuentro aprendiendo las siguientes tecnologías:</p>
+            <!-- Vite -->
+            <img src="https://vitejs.dev/logo-with-shadow.png" style="width:35px;height:35px">
+            <!-- TS -->
+            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" style="width:35px;height:35px">
+            <!-- Angular -->
+            <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png" style="width:35px;height:33px">
+            <!-- Angular -->
+            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" style="width:35px;height:33px">
+            <!-- Golang -->
+            <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png" style="width:45px;height:40px;">
+            <!-- Rust -->
+            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rust_icon_130185.png" style="width:40px;height:37px;">
+            <p align='left' style="margin-bottom:30px;margin-top:30px">¿No logras reconocer algún logotipo de los que acabo de compartir? 🧐 Puedes preguntarme si deseas conocer algo o requieras ayuda en algún proceso, que si no lo sé solucionar ... te ayudo a buscar la solución 😅. Me gusta compartir mis conocimientos y ayudar a aquellos que deseen conocer y aprender programación.<br>
                 En el año 2022 tuve el honor y el privilegio de ser parte del grupo de profesores de programación en el <b>Diplomado Front-End con React JS</b> brindado por el <b>Campus FIMLM</b> en colaboración del <b>Instituto Tecnológico de Antioquia</b> & <b>Hackdó Community Developers</b>. En el cual brindé mis conocimientos 🤓 en <b> Git, HTML, CSS & JavaScript</b> hacia más de 120 estudiantes de todo el país 😉
-                <br><br>Miembro de la comunidad <b>Women Who Code Medellín</b> desde el año 2023 en la cual también se ha participado en proyectos como el curso de <b>Backend Developer Node JS (from Hero to SuperHero)</b> 
+                <br><br>Miembro de la comunidad <b>Women Who Code Medellín</b> desde el año 2023 en la cual también se ha participado en proyectos como el curso de <b>Backend Developer Node JS (from Hero to SuperHero)</b> 💪🏼
             </p>    
                 No le digas a Dios que tan grande es el bug 🐞, muéstrale al bug ... que tan grande es <b>Dios</b> 😀
         </div>
 		<p style="margin-top:20px">¡ Gracias por visitar mi Perfil !<br>
-        <a href="https://jhoemsoftware.com/" target="_blank" style="letter-spacing: 3px">jhoemsoftware.com</a>
+        <!-- <a href="https://jhoemsoftware.com/" target="_blank" style="letter-spacing: 3px">jhoemsoftware.com</a> -->
         </p>
         <hr style="margin-top:10px">
 	</div>
