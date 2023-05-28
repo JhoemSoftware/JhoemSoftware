@@ -58,24 +58,14 @@ Here are some ideas to get you started:
             <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" style="width:35px;height:35px">
             <!-- Vue -->
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" style="width:35px;height:35px">
+            <!-- Jest -->
+            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_snapshot_icon_130513.png" style="width:35px;height:35px">
             <!-- PHP -->
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" style="width:45px;height:45px">
             <!-- Laravel -->
             <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_168331.png" style="width:35px;height:35px">
             <!-- Livewire -->
             <img src="https://imgs.search.brave.com/6iqlYN3nj1G5hHx8r-E8hd3HPDcOO71f-cUe6ynN5IE/rs:fit:653:653:1/g:ce/aHR0cHM6Ly9pbmR5/a29uaW5nLm5sL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIwLzAz/L0xpdmV3aXJlLnBu/Zw" style="width:35px;height:33px">
-            <!-- JS -->
-            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" style="width:35px;height:35px">
-            <!-- Node -->
-            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" style="width:35px;height:35px">
-            <!-- Handlebars -->
-            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_handlebars_icon_130555.png" style="width:40px;height:40px">
-            <!-- Jest -->
-            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_snapshot_icon_130513.png" style="width:35px;height:35px">
-            <!-- Vue -->
-            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" style="width:35px;height:35px">
-            <!-- React -->
-            <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" style="width:35px;height:35px">
             <!-- Mongo -->
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png" style="width:38px;height:38px">
             <!-- SQL Server -->
