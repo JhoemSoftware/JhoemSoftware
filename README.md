@@ -54,10 +54,12 @@ Here are some ideas to get you started:
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" style="width:35px;height:35px">
             <!-- Handlebars -->
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_handlebars_icon_130555.png" style="width:40px;height:40px">
-            <!-- Vue -->
-            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" style="width:35px;height:35px">
+            <!-- Pug -->
+            <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pugjs_logo_icon_170825.png" style="width:40px;height:40px">
             <!-- React -->
             <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" style="width:35px;height:35px">
+            <!-- Vue -->
+            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" style="width:35px;height:35px">
             <!-- PHP -->
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" style="width:45px;height:45px">
             <!-- Laravel -->
@@ -85,12 +87,13 @@ Here are some ideas to get you started:
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" style="width:40px;height:35px">
             <!-- Angular -->
             <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png" style="width:35px;height:33px">
-            <!-- Angular -->
+            <!-- Graphql -->
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" style="width:35px;height:33px">
+            <!-- Rust -->
+            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rust_icon_130185.png" style="width:40px;height:37px;">
             <!-- Golang -->
             <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png" style="width:45px;height:40px;">
-            <!-- Rust -->
-            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rust_icon_130185.png" style="width:40px;height:37px;"><br><br>
+            <br><br>
             <p align='left'>¿No logras reconocer algún logotipo de los que acabo de compartir? 🧐 Puedes preguntarme si deseas conocer algo o requieras ayuda en algún proceso, que si no lo sé solucionar ... te ayudo a buscar la solución 😅. Me gusta compartir mis conocimientos y ayudar a aquellos que deseen conocer y aprender programación.<br>
                 En el año 2022 tuve el honor y el privilegio de ser parte del grupo de profesores de programación en el <b>Diplomado Front-End con React JS</b> brindado por el <b>Campus FIMLM</b> en colaboración del <b>Instituto Tecnológico de Antioquia</b> & <b>Hackdó Community Developers</b>. En el cual brindé mis conocimientos 🤓 en <b> Git, HTML, CSS & JavaScript</b> hacia más de 120 estudiantes de todo el país 😉
                 <br><br>Miembro de la comunidad <b>Women Who Code Medellín</b> desde el año 2023 en la cual también se ha participado en proyectos como el curso de <b>Backend Developer Node JS (from Hero to SuperHero)</b> 💪🏼
