@@ -99,15 +99,13 @@ Here are some ideas to get you started:
             <img src="https://imgs.search.brave.com/yRM4SLkNg7npDfhIuI1uBvvdY9AZh-ODTlg6bjvfR-A/rs:fit:1080:1080:1/g:ce/aHR0cHM6Ly9kYXJ0/LWNvZGUuZ2FsbGVy/eWNkbi52c2Fzc2V0/cy5pby9leHRlbnNp/b25zL2RhcnQtY29k/ZS9kYXJ0LWNvZGUv/My4xNi4wLzE2MDQw/Njg3MjI3NjMvTWlj/cm9zb2Z0LlZpc3Vh/bFN0dWRpby5TZXJ2/aWNlcy5JY29ucy5E/ZWZhdWx0" style="width:27px;height:27px">
             <!-- Flutter -->
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" style="width:40px;height:35px"><br><br>
-            <br><br>
-            <p align='left'>¿No logras reconocer algún logotipo de los que acabo de compartir? 🧐 Puedes preguntarme si deseas conocer algo o requieras ayuda en algún proceso, que si no lo sé solucionar ... te ayudo a buscar la solución 😅. Me gusta compartir mis conocimientos y ayudar a aquellos que deseen conocer y aprender programación.<br>
-                En el año 2022 tuve el honor y el privilegio de ser parte del grupo de profesores de programación en el <b>Diplomado Front-End con React JS</b> brindado por el <b>Campus FIMLM</b> en colaboración del <b>Instituto Tecnológico de Antioquia</b> & <b>Hackdó Community Developers</b>. En el cual brindé mis conocimientos 🤓 en <b> Git, HTML, CSS & JavaScript</b> hacia más de 120 estudiantes de todo el país 😉
-                <br><br>Miembro de la comunidad <b>Women Who Code Medellín</b> desde el año 2023 en la cual también se ha participado en proyectos como el curso de <b>Backend Developer Node JS (from Hero to SuperHero)</b> 💪🏼
-            </p><br><br>  
+            <br>
+            <p align='left'>¿No logras reconocer algún logotipo de los que acabo de compartir? 🧐 Puedes preguntarme si deseas conocer algo o requieras ayuda en algún proceso, que si no lo sé solucionar ... te ayudo a buscar la solución 😅. Me gusta compartir mis conocimientos y ayudar a aquellos que deseen conocer y aprender programación.
+            </p><br>
                 No le digas a Dios que tan grande es el bug 🐞, muéstrale al bug ... que tan grande es <b>Dios</b> 😀
         </div>
 		<p>¡ Gracias por visitar mi Perfil !<br>
-        <!-- <a href="https://jhoemsoftware.com/" target="_blank" style="letter-spacing: 3px">jhoemsoftware.com</a> -->
+        <a href="https://jhoemsoftware.onrender.com/" target="_blank" style="letter-spacing: 3px">jhoemsoftware.com</a>
         </p>
         <hr style="margin-top:10px">
 	</div>
