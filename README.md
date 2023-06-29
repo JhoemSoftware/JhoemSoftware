@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </head>
 <body>
 	<div align="center">
-		<img src="https://i.ibb.co/dmJ7z1m/jhonem-Morado.png" style="width: 150px;">
+		<img src="https://i.ibb.co/hcjmvZL/jhonem-Azul.png" style="width: 150px;">
 	</div>
 	<div align="center">
         <div align="center">
