@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </head>
 <body>
 	<div align="center">
-		<img src="https://i.ibb.co/hcjmvZL/jhonem-Azul.png" style="width: 150px;">
+		<img src="https://i.ibb.co/hcjmvZL/jhonem-Azul.png" style="width: 190px;">
 	</div>
 	<div align="center">
         <div align="center">
@@ -50,6 +50,8 @@ Here are some ideas to get you started:
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" style="width:35px;height:35px">
             <!-- Node -->
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" style="width:35px;height:35px">
+            <!-- Express -->
+            <img src="https://jsurt.github.io/jacks-portfolio/images/color-express-icon%20(1).png" style="width:40px;height:40px">
             <!-- Handlebars -->
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_handlebars_icon_130555.png" style="width:40px;height:40px">
             <!-- Pug -->
