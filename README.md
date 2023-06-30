@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </head>
 <body>
 	<div align="center">
-		<img src="https://i.ibb.co/hcjmvZL/jhonem-Azul.png" style="width: 190px;">
+		<img src="https://i.ibb.co/hcjmvZL/jhonem-Azul.png" style="width: 200px;">
 	</div>
 	<div align="center">
         <div align="center">
@@ -30,10 +30,10 @@ Here are some ideas to get you started:
             </p>
             <!-- Arch -->
             <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/distributorlogoarchlinux_103805.png" style="width:35px;height:35px">
-            <!-- Arch -->
-            <img src="https://cdn.icon-icons.com/icons2/1159/PNG/256/linux_81610.png" style="width:35px;height:35px">
+            <!-- Tux -->
+            <img src="https://cdn.icon-icons.com/icons2/1159/PNG/256/linux_81610.png" style="width:40px;height:35px">
             <!-- GIT -->
-            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" style="width:35px;height:35px">
+            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" style="width:40px;height:35px">
             <!-- DOCKER -->
             <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png" style="width:50px;height:44px">
             <!-- Postman -->
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
             <!-- JS -->
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" style="width:35px;height:35px">
             <!-- Node -->
-            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" style="width:35px;height:35px">
+            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" style="width:40px;height:38px">
             <!-- Express -->
             <img src="https://jsurt.github.io/jacks-portfolio/images/color-express-icon%20(1).png" style="width:40px;height:40px">
             <!-- Handlebars -->
