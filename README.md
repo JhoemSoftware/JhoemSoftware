@@ -11,13 +11,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align='center'>
+<!-- <p align='center'>
 	<img src="https://i.ibb.co/hcjmvZL/jhonem-Azul.png" style="width: 200px;">
+</p> -->
+<p align='center'>
+	<img src="https://raw.githubusercontent.com/JhoemSoftware/JhoemSoftwareWebReact/master/public/jhoemAzul.webp" style="width: 200px;">
 </p>
 
-<h1 align='center'>Full Stack Software Developer</h1>
+<h1 align='center'>Software</h1>
 
-Hi 👋🏼! I'm Jhon Alex Marín, from Medellín  🇨🇴. Full Stack software developer with two years of experience in the implementation of information systems and web development with this skills
+Hi 👋🏼! I'm Jhon Alex Marín, from Medellín  🇨🇴. Full Stack software developer with two years of experience in the implementation of information systems and web development with this skills 👨🏻‍💻
 
 <p align='center'>
     <!-- GIT -->
