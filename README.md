@@ -23,10 +23,12 @@ Here are some ideas to get you started:
 Hi 👋🏼! I'm Jhon Alex Marín, from Medellín  🇨🇴. Full Stack software developer with two years of experience in the implementation of information systems and web development with this skills 👨🏻‍💻
 
 <p align='center'>
-    <!-- GIT -->
+<!-- GIT -->
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" style="width:40px;height:35px">
 <!-- Docker -->
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png" style="width:50px;height:46px">
+<!-- Rust -->
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rust_icon_130185.png" style="width:40px;height:40px">
 <!-- HTML -->
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" style="width:35px;height:35px">
 <!-- CSS -->
@@ -65,14 +67,12 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín  🇨🇴. Full Stack software
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_168331.png" style="width:35px;height:35px">
 <!-- Livewire -->
 <img src="https://imgs.search.brave.com/6iqlYN3nj1G5hHx8r-E8hd3HPDcOO71f-cUe6ynN5IE/rs:fit:653:653:1/g:ce/aHR0cHM6Ly9pbmR5/a29uaW5nLm5sL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIwLzAz/L0xpdmV3aXJlLnBu/Zw" style="width:35px;height:33px">
-<!-- Mongo -->
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png" style="width:38px;height:38px">
-<!-- SQL Server -->
-<img src="https://i.ibb.co/nRPfJty/sql.png" style="width:33px;height:30px">
-<!-- Postgres -->
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_src_logo_icon_170834.png" style="width:33px;height:35px">
 <!-- Mysql -->
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png" style="width:40px;height:35px">
+<!-- Mongo -->
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png" style="width:38px;height:38px">
+<!-- Postgres -->
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_src_logo_icon_170834.png" style="width:33px;height:35px">
 </p>
 
 <p align='center'>No le digas a Dios que tan grande es el bug 🐞, muéstrale al bug ... que tan grande es <b>Dios</b> 😀<br>
