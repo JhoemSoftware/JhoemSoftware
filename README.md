@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 
 <h1 align='center'>Jhoem Software</h1>
 
-Hi 👋🏼! I'm Jhon Alex Marín, from Medellín  🇨🇴. Full Stack software developer with two years of experience in the implementation of information systems and web development with this skills 👨🏻‍💻
+Hi 👋🏼! I'm Jhon Alex Marín, from Medellín  🇨🇴. Full Stack software developer with experience in the implementation of information systems and web development with this skills 👨🏻‍💻
 
 <p align='center'>
     <!-- GIT -->
     <img src="./images/git.png" width='43' height='42'>
     <!-- Docker -->
-    <img src="./images/docker.png" width='43' height='42'>
+    <img src="./images/docker.png" width='50' height='37'>
     <!-- Rust -->
-    <img src="./images/rust.png" width='43' height='42'>
+    <img src="./images/rust.png" width='45' height='45'>
     <!-- Actix -->
     <img src="./images/actix.png" width='43' height='42'>
     <!-- Node -->
