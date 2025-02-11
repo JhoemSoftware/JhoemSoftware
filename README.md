@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 	<img src="https://i.ibb.co/hcjmvZL/jhonem-Azul.png" style="width: 200px;">
 </p> -->
 <p align='center'>
-	<img src="https://raw.githubusercontent.com/JhoemSoftware/JhoemSoftwareWebReact/master/public/jhoemAzul.webp" style="width: 200px;">
+	<img src="https://raw.githubusercontent.com/JhoemSoftware/JhoemSoftwareWebReact/master/public/jhoemAzul.webp" style="width: 210px;">
 </p>
 
 <h1 align='center'>Software</h1>
@@ -24,55 +24,55 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín  🇨🇴. Full Stack software
 
 <p align='center'>
 <!-- GIT -->
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" style="width:40px;height:35px">
+<img src="./git.png" style="width:40px;height:38px">
 <!-- Docker -->
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png" style="width:50px;height:46px">
+<img src="./docker.png" style="width:50px;height:50px">
 <!-- Rust -->
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rust_icon_130185.png" style="width:40px;height:40px">
-<!-- HTML -->
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" style="width:35px;height:35px">
-<!-- CSS -->
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" style="width:35px;height:35px">
-<!-- Bootstrap -->
-<img src="https://imgs.search.brave.com/uDLbeMEBxKvamOj0mQ7eLH0-vR_btuM6B3w5CY90x6c/rs:fit:872:807:1/g:ce/aHR0cHM6Ly93d3cu/cGluY2xpcGFydC5j/b20vcGljZGlyL2Jp/Zy8zNS0zNTM5MzJf/Ym9vdHN0cmFwLWJv/b3RzdHJhcC00LWxv/Z28tcG5nLWNsaXBh/cnQucG5n" style="width:35px;height:35px">
-<!-- Tailwind -->
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" style="width:40px;height:40px">
-<!-- JS -->
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" style="width:35px;height:35px">
-<!-- TS -->
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" style="width:40px;height:35px">
+<img src="./rust.png" style="width:40px;height:40px">
+<!-- Actix -->
+<img src="./actix.png" style="width:40px;height:40px">
 <!-- Node -->
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" style="width:40px;height:38px">
+<img src="./node.png" style="width:40px;height:38px">
 <!-- Express -->
-<img src="https://jsurt.github.io/jacks-portfolio/images/color-express-icon%20(1).png" style="width:40px;height:40px">
+<img src="./express.png" style="width:40px;height:40px">
 <!-- NestJS -->
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_168087.png" style="width:33px;height:33px">
-<!-- Graphql -->
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" style="width:35px;height:33px">
+<img src="./nest.png" style="width:33px;height:33px">
 <!-- Jest -->
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_snapshot_icon_130513.png" style="width:33px;height:33px">
-<!-- Handlebars -->
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_handlebars_icon_130555.png" style="width:40px;height:47px">
-<!-- Pug -->
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pugjs_logo_icon_170825.png" style="width:40px;height:40px">
-<!-- React -->
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" style="width:35px;height:35px">
-<!-- Next -->
-<img src="https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_400x400.jpg" style="width:35px;height:35px">
-<!-- Vue -->
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" style="width:35px;height:35px">
-<!-- PHP -->
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" style="width:45px;height:45px">
+<img src="./jest.png" style="width:33px;height:33px">
 <!-- Laravel -->
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_168331.png" style="width:35px;height:35px">
+<img src="./laravel.png" style="width:35px;height:35px">
 <!-- Livewire -->
-<img src="https://imgs.search.brave.com/6iqlYN3nj1G5hHx8r-E8hd3HPDcOO71f-cUe6ynN5IE/rs:fit:653:653:1/g:ce/aHR0cHM6Ly9pbmR5/a29uaW5nLm5sL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIwLzAz/L0xpdmV3aXJlLnBu/Zw" style="width:35px;height:33px">
+<img src="./livewire.png" style="width:35px;height:33px">
 <!-- Mysql -->
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png" style="width:40px;height:35px">
-<!-- Mongo -->
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png" style="width:38px;height:38px">
+<img src="./mysql.png" style="width:45px;height:45px">
+<!-- MariaDB -->
+<img src="./maria.png" style="width:43px;height:43px">
 <!-- Postgres -->
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_src_logo_icon_170834.png" style="width:33px;height:35px">
+<img src="./pgsql.png" style="width:33px;height:35px">
+<!-- Mongo -->
+<img src="./mongo.png" style="width:38px;height:38px">
+<!-- PHP -->
+<img src="./php.png" style="width:45px;height:45px">
+<!-- JS -->
+<img src="./js.png" style="width:35px;height:35px">
+<!-- TS -->
+<img src="./ts.png" style="width:35px;height:35px">
+<!-- React -->
+<img src="./react.png" style="width:35px;height:35px">
+<!-- Next -->
+<img src="./next.png" style="width:33px;height:33px">
+<!-- Vue -->
+<img src="./vue.png" style="width:35px;height:35px">
+<!-- Angular -->
+<img src="./angular.png" style="width:35px;height:35px">
+<!-- HTML -->
+<img src="./html.png" style="width:35px;height:35px">
+<!-- CSS -->
+<img src="./css.png" style="width:35px;height:35px">
+<!-- Bootstrap -->
+<img src="./bootstrap.png" style="width:35px;height:35px">
+<!-- Tailwind -->
+<img src="./tailwind.png" style="width:40px;height:40px">
 </p>
 
 <p align='center'>No le digas a Dios que tan grande es el bug 🐞, muéstrale al bug ... que tan grande es <b>Dios</b> 😀<br>
