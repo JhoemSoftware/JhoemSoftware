@@ -43,6 +43,8 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín  🇨🇴. Full Stack software
     <img src="./images/laravel.png" width='40' height='40'>
     <!-- Jest -->
     <img src="./images/jest.png" width='40' height='42'>
+    <!-- Oracle -->
+    <img src="./images/redis.webp" width='38' height='38'>
     <!-- Sql Server -->
     <img src="./images/sqlserver.png" width='40' height='38'>
     <!-- Oracle -->
