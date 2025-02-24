@@ -28,35 +28,33 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín  🇨🇴. Full Stack software
     <!-- Docker -->
     <img src="./images/docker.png" width='50' height='37'>
     <!-- Rust -->
-    <img src="./images/rust.png" width='45' height='45'>
+    <img src="./images/rust.png" width='47' height='45'>
     <!-- Actix -->
     <img src="./images/actix.png" width='43' height='42'>
     <!-- Node -->
     <img src="./images/node.png" width='43' height='42'>
     <!-- Express -->
-    <img src="./images/express.png" width='43' height='42'>
+    <img src="./images/express.png" width='43' height='43'>
     <!-- NestJS -->
-    <img src="./images/nest.png" width='43' height='42'>
-    <!-- Jest -->
-    <img src="./images/jest.png" width='43' height='42'>
-    <!-- Laravel -->
-    <img src="./images/laravel.png" width='43' height='42'>
+    <img src="./images/nest.png" width='40' height='40'>
     <!-- Livewire -->
-    <img src="./images/livewire.png" width='43' height='42'>
+    <img src="./images/livewire.png" width='40' height='40'>
+    <!-- Laravel -->
+    <img src="./images/laravel.png" width='40' height='40'>
+    <!-- Jest -->
+    <img src="./images/jest.png" width='40' height='42'>
     <!-- Sql Server -->
-    <img src="./images/sqlserver.png" width='40' height='40'>
+    <img src="./images/sqlserver.png" width='40' height='38'>
     <!-- Oracle -->
-    <img src="./images/oracle.png" width='40' height='40'>
+    <img src="./images/oracle.png" width='38' height='38'>
     <!-- Mysql -->
-    <img src="./images/mysql.png" width='43' height='42'>
+    <img src="./images/mysql.png" width='45' height='45'>
     <!-- MariaDB -->
     <img src="./images/maria.png" width='43' height='42'>
     <!-- Postgres -->
     <img src="./images/pgsql.png" width='43' height='42'>
     <!-- Mongo -->
     <img src="./images/mongo.png" width='53' height='42'>
-    <!-- PHP -->
-    <img src="./images/php.png" width='43' height='42'>
     <!-- JS -->
     <img src="./images/js.png" width='43' height='42'>
     <!-- TS -->
@@ -64,19 +62,27 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín  🇨🇴. Full Stack software
     <!-- React -->
     <img src="./images/react.png" width='43' height='42'>
     <!-- Next -->
-    <img src="./images/next.png" width='43' height='42'>
+    <img src="./images/next.png" width='43' height='40'>
     <!-- Vue -->
     <img src="./images/vue.png" width='43' height='42'>
     <!-- Angular -->
-    <img src="./images/angular.png" width='43' height='42'>
+    <img src="./images/angular.png" width='40' height='40'>
+    <!-- PHP -->
+    <img src="./images/php.png" width='45' height='45'>
+    <!-- Handlebars -->
+    <img src="./images/handlebars.png" width='45' height='38'>
+    <!-- Pug -->
+    <img src="./images/pug.png" width='43' height='42'>
     <!-- HTML -->
     <img src="./images/html.png" width='43' height='42'>
     <!-- CSS -->
     <img src="./images/css.png" width='43' height='42'>
+    <!-- Sass -->
+    <img src="./images/sass.png" width='45' height='33'>
     <!-- Bootstrap -->
     <img src="./images/bootstrap.png" width='43' height='42'>
     <!-- Tailwind -->
-    <img src="./images/tailwind.png" width='43' height='42'>
+    <img src="./images/tailwind.png" width='45' height='44'>
 </p>
 
 <p align='center'>
