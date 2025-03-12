@@ -24,15 +24,25 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín  🇨🇴. Full Stack software
 
 <p align='center'>
     <!-- GIT -->
-    <img src="./images/git.png" width='43' height='42'>
+    <a href='https://git-scm.com/doc' target='_blank'>
+        <img src="./images/git.png" width='43' height='42'>
+    </a>
     <!-- Docker -->
-    <img src="./images/docker.png" width='50' height='37'>
+    <a href='https://docs.docker.com/manuals/' target='_blank'>
+        <img src="./images/docker.png" width='50' height='37'>
+    </a>
     <!-- Rust -->
-    <img src="./images/rust.png" width='47' height='45'>
+    <a href='https://www.rust-lang.org/' target='_blank'>
+        <img src="./images/rust.png" width='47' height='45'>
+    </a>
     <!-- Actix -->
-    <img src="./images/actix.png" width='43' height='42'>
+    <a href='https://actix.rs/' target='_blank'>
+        <img src="./images/actix.png" width='43' height='42'>
+    </a>
     <!-- Node -->
-    <img src="./images/node.png" width='43' height='42'>
+    <a href='https://nodejs.org/en' target='_blank'>
+        <img src="./images/node.png" width='43' height='42'>
+    </a>
     <!-- Express -->
     <img src="./images/express.png" width='43' height='43'>
     <!-- NestJS -->
