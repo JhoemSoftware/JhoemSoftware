@@ -24,11 +24,11 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín  🇨🇴. Full Stack software
 
 <p align='center'>
     <!-- GIT -->
-    <a href='https://git-scm.com/doc' target='_blank'>
+    <a href='https://git-scm.com/' target='_blank'>
         <img src="./images/git.png" width='43' height='42'>
     </a>
     <!-- Docker -->
-    <a href='https://docs.docker.com/manuals/' target='_blank'>
+    <a href='https://www.docker.com/' target='_blank'>
         <img src="./images/docker.png" width='50' height='37'>
     </a>
     <!-- Rust -->
@@ -40,61 +40,111 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín  🇨🇴. Full Stack software
         <img src="./images/actix.png" width='43' height='42'>
     </a>
     <!-- Node -->
-    <a href='https://nodejs.org/en' target='_blank'>
+    <a href='https://nodejs.org/' target='_blank'>
         <img src="./images/node.png" width='43' height='42'>
     </a>
     <!-- Express -->
-    <img src="./images/express.png" width='43' height='43'>
+    <a href='https://expressjs.com/'>
+        <img src="./images/express.png" width='43' height='43'>
+    </a>
     <!-- NestJS -->
-    <img src="./images/nest.png" width='40' height='40'>
+    <a href='https://nestjs.com/'>
+        <img src="./images/nest.png" width='40' height='40'>
+    </a>
     <!-- Livewire -->
-    <img src="./images/livewire.png" width='40' height='40'>
+    <a href='https://livewire.laravel.com/'>
+        <img src="./images/livewire.png" width='40' height='40'>
+    </a>
     <!-- Laravel -->
-    <img src="./images/laravel.png" width='40' height='40'>
-    <!-- Jest -->
+    <a href='https://laravel.com/'>
+        <img src="./images/laravel.png" width='40' height='40'>
+    </a>
+    <!-- Jest --
     <img src="./images/jest.png" width='40' height='42'>
     <!-- Oracle -->
-    <img src="./images/redis.webp" width='38' height='38'>
-    <!-- Sql Server -->
+    <a href='https://redis.io/'>
+        <img src="./images/redis.webp" width='38' height='38'>
+    </a>
+    <!-- Sql Server --
     <img src="./images/sqlserver.png" width='40' height='38'>
-    <!-- Oracle -->
+    <!-- Oracle --
     <img src="./images/oracle.png" width='38' height='38'>
     <!-- Mysql -->
-    <img src="./images/mysql.png" width='45' height='45'>
+    <a href='https://www.mysql.com/'>
+        <img src="./images/mysql.png" width='45' height='45'>
+    </a>
     <!-- MariaDB -->
-    <img src="./images/maria.png" width='43' height='42'>
+    <a href='https://mariadb.org/'>
+        <img src="./images/maria.png" width='43' height='42'>
+    </a>
     <!-- Postgres -->
-    <img src="./images/pgsql.png" width='43' height='42'>
+    <a href='https://www.postgresql.org/'>
+        <img src="./images/pgsql.png" width='43' height='42'>
+    </a>
     <!-- Mongo -->
-    <img src="./images/mongo.png" width='53' height='42'>
+    <a href='https://www.mongodb.com/'>
+        <img src="./images/mongo.png" width='53' height='42'>
+    </a>
     <!-- JS -->
-    <img src="./images/js.png" width='43' height='42'>
+    <a href='https://developer.mozilla.org/en/docs/Web/JavaScript'>
+        <img src="./images/js.png" width='43' height='42'>
+    </a>
     <!-- TS -->
-    <img src="./images/ts.png" width='43' height='42'>
+    <a href='https://www.typescriptlang.org/'>
+        <img src="./images/ts.png" width='43' height='42'>
+    </a>
     <!-- React -->
-    <img src="./images/react.png" width='43' height='42'>
+    <a href='https://react.dev/'>
+        <img src="./images/react.png" width='43' height='42'>
+    </a>
     <!-- Next -->
-    <img src="./images/next.png" width='43' height='40'>
+    <a href='https://nextjs.org/'>
+        <img src="./images/next.png" width='43' height='40'>
+    </a>
     <!-- Vue -->
-    <img src="./images/vue.png" width='43' height='42'>
+    <a href='https://vuejs.org/'>
+        <img src="./images/vue.png" width='43' height='42'>
+    </a>
     <!-- Angular -->
-    <img src="./images/angular.png" width='40' height='40'>
+    <a href='https://angular.dev/'>
+        <img src="./images/angular.png" width='40' height='40'>
+    </a>
     <!-- PHP -->
-    <img src="./images/php.png" width='45' height='45'>
+    <a href='https://www.php.net/'>
+        <img src="./images/php.png" width='45' height='45'>
+    </a>
+    <!-- Leptos -->
+    <a href='https://leptos.dev/'>
+        <img src="./images/leptos.png" width='40' height='38'>
+    </a>
     <!-- Handlebars -->
-    <img src="./images/handlebars.png" width='45' height='38'>
+    <a href='https://handlebarsjs.com/'>
+        <img src="./images/handlebars.png" width='45' height='38'>
+    </a>
     <!-- Pug -->
-    <img src="./images/pug.png" width='43' height='42'>
+    <a href='https://pugjs.org/api/getting-started.html'>
+        <img src="./images/pug.png" width='43' height='42'>
+    </a>
     <!-- HTML -->
-    <img src="./images/html.png" width='43' height='42'>
+    <a href='https://developer.mozilla.org/en/docs/Web/HTML'>
+        <img src="./images/html.png" width='43' height='42'>
+    </a>
     <!-- CSS -->
-    <img src="./images/css.png" width='43' height='42'>
+    <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
+        <img src="./images/css.png" width='43' height='42'>
+    </a>
     <!-- Sass -->
-    <img src="./images/sass.png" width='45' height='33'>
+    <a href='https://sass-lang.com/'>
+        <img src="./images/sass.png" width='45' height='33'>
+    </a>
     <!-- Bootstrap -->
-    <img src="./images/bootstrap.png" width='43' height='42'>
+    <a href='https://getbootstrap.com/'>
+        <img src="./images/bootstrap.png" width='43' height='42'>
+    </a>
     <!-- Tailwind -->
-    <img src="./images/tailwind.png" width='45' height='44'>
+    <a href='https://tailwindcss.com/'>
+        <img src="./images/tailwind.png" width='45' height='44'>
+    </a>
 </p>
 
 <p align='center'>
