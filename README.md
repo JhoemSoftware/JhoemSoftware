@@ -44,25 +44,17 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín  🇨🇴. Full Stack software
         <img src="./images/node.png" width='43' height='42'>
     </a>
     <!-- Express -->
-    <a href='https://expressjs.com/'>
+    <a href='https://expressjs.com/' target='_blank'>
         <img src="./images/express.png" width='43' height='43'>
     </a>
     <!-- NestJS -->
-    <a href='https://nestjs.com/'>
+    <a href='https://nestjs.com/' target='_blank'>
         <img src="./images/nest.png" width='40' height='40'>
-    </a>
-    <!-- Livewire -->
-    <a href='https://livewire.laravel.com/'>
-        <img src="./images/livewire.png" width='40' height='40'>
-    </a>
-    <!-- Laravel -->
-    <a href='https://laravel.com/'>
-        <img src="./images/laravel.png" width='40' height='40'>
     </a>
     <!-- Jest --
     <img src="./images/jest.png" width='40' height='42'>
     <!-- Oracle -->
-    <a href='https://redis.io/'>
+    <a href='https://redis.io/' target='_blank'>
         <img src="./images/redis.webp" width='38' height='38'>
     </a>
     <!-- Sql Server --
@@ -70,7 +62,7 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín  🇨🇴. Full Stack software
     <!-- Oracle --
     <img src="./images/oracle.png" width='38' height='38'>
     <!-- Mysql -->
-    <a href='https://www.mysql.com/'>
+    <a href='https://www.mysql.com/' target='_blank'>
         <img src="./images/mysql.png" width='45' height='45'>
     </a>
     <!-- MariaDB -->
@@ -78,71 +70,83 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín  🇨🇴. Full Stack software
         <img src="./images/maria.png" width='43' height='42'>
     </a>
     <!-- Postgres -->
-    <a href='https://www.postgresql.org/'>
+    <a href='https://www.postgresql.org/' target='_blank'>
         <img src="./images/pgsql.png" width='43' height='42'>
     </a>
     <!-- Mongo -->
-    <a href='https://www.mongodb.com/'>
+    <a href='https://www.mongodb.com/' target='_blank'>
         <img src="./images/mongo.png" width='53' height='42'>
+    </a>
+    <!-- PHP -->
+    <a href='https://www.php.net/' target='_blank'>
+        <img src="./images/php.png" width='45' height='45'>
     </a>
     <!-- JS -->
     <a href='https://developer.mozilla.org/en/docs/Web/JavaScript'>
         <img src="./images/js.png" width='43' height='42'>
     </a>
     <!-- TS -->
-    <a href='https://www.typescriptlang.org/'>
+    <a href='https://www.typescriptlang.org/' target='_blank'>
         <img src="./images/ts.png" width='43' height='42'>
     </a>
     <!-- React -->
-    <a href='https://react.dev/'>
+    <a href='https://react.dev/' target='_blank'>
         <img src="./images/react.png" width='43' height='42'>
     </a>
     <!-- Next -->
-    <a href='https://nextjs.org/'>
+    <a href='https://nextjs.org/' target='_blank'>
         <img src="./images/next.png" width='43' height='40'>
     </a>
     <!-- Vue -->
-    <a href='https://vuejs.org/'>
+    <a href='https://vuejs.org/' target='_blank'>
         <img src="./images/vue.png" width='43' height='42'>
     </a>
     <!-- Angular -->
-    <a href='https://angular.dev/'>
+    <!-- <a href='https://angular.dev/' target='_blank'>
         <img src="./images/angular.png" width='40' height='40'>
-    </a>
-    <!-- PHP -->
-    <a href='https://www.php.net/'>
-        <img src="./images/php.png" width='45' height='45'>
+    </a> -->
+    <!-- Yew -->
+    <a href='https://yew.rs/' target='_blank'>
+        <img src="./images/yew.svg" width='43' height='43'>
     </a>
     <!-- Leptos -->
-    <a href='https://leptos.dev/'>
-        <img src="./images/leptos.png" width='40' height='38'>
+    <a href='https://leptos.dev/' target='_blank'>
+        <img src="./images/leptos.png" width='40' height='35'>
+    </a>
+    <!-- Livewire -->
+    <a href='https://livewire.laravel.com/' target='_blank'>
+        <img src="./images/livewire.png" width='40' height='40'>
+    </a>
+    <!-- Laravel -->
+    <a href='https://laravel.com/' target='_blank'>
+        <img src="./images/laravel.png" width='40' height='40'>
     </a>
     <!-- Handlebars -->
-    <a href='https://handlebarsjs.com/'>
+    <a href='https://handlebarsjs.com/' target='_blank'>
         <img src="./images/handlebars.png" width='45' height='38'>
     </a>
     <!-- Pug -->
-    <a href='https://pugjs.org/api/getting-started.html'>
+    <a href='https://pugjs.org/api/getting-started.html' target='_blank'>
         <img src="./images/pug.png" width='43' height='42'>
     </a>
     <!-- HTML -->
-    <a href='https://developer.mozilla.org/en/docs/Web/HTML'>
+    <a href='https://developer.mozilla.org/en/docs/Web/HTML' target='_blank'>
         <img src="./images/html.png" width='43' height='42'>
     </a>
     <!-- CSS -->
-    <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
+    <a href='https://developer.mozilla.org/en-US/docs/Web/CSS' target='_blank'>
         <img src="./images/css.png" width='43' height='42'>
     </a>
     <!-- Sass -->
-    <a href='https://sass-lang.com/'>
+    <a href='https://sass-lang.com/' target='_blank'>
         <img src="./images/sass.png" width='45' height='33'>
     </a>
     <!-- Bootstrap -->
-    <a href='https://getbootstrap.com/'>
+    <a href='https://getbootstrap.com/' target='_blank'>
         <img src="./images/bootstrap.png" width='43' height='42'>
     </a>
     <!-- Tailwind -->
-    <a href='https://tailwindcss.com/'>
+    <a href='https://tailwindcss.com/' target='_blank'>
         <img src="./images/tailwind.png" width='45' height='44'>
     </a>
 </p>
