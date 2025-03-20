@@ -25,11 +25,11 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín  🇨🇴. Full Stack software
 <p align='center'>
     <!-- GIT -->
     <a href='https://git-scm.com/' target='_blank'>
-        <img src="./images/git.png" width='43' height='42'>
+        <img src="./images/git.png" width='43' height='40'>
     </a>
     <!-- Docker -->
     <a href='https://www.docker.com/' target='_blank'>
-        <img src="./images/docker.png" width='50' height='37'>
+        <img src="./images/docker.png" width='45' height='35'>
     </a>
     <!-- Rust -->
     <a href='https://www.rust-lang.org/' target='_blank'>
@@ -49,13 +49,13 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín  🇨🇴. Full Stack software
     </a>
     <!-- NestJS -->
     <a href='https://nestjs.com/' target='_blank'>
-        <img src="./images/nest.png" width='40' height='40'>
+        <img src="./images/nest.png" width='38' height='38'>
     </a>
     <!-- Jest --
     <img src="./images/jest.png" width='40' height='42'>
-    <!-- Oracle -->
+    <!-- Redis -->
     <a href='https://redis.io/' target='_blank'>
-        <img src="./images/redis.webp" width='38' height='38'>
+        <img src="./images/redis.webp" width='38' height='35'>
     </a>
     <!-- Sql Server --
     <img src="./images/sqlserver.png" width='40' height='38'>
@@ -71,11 +71,11 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín  🇨🇴. Full Stack software
     </a>
     <!-- Postgres -->
     <a href='https://www.postgresql.org/' target='_blank'>
-        <img src="./images/pgsql.png" width='43' height='42'>
+        <img src="./images/pgsql.png" width='40' height='40'>
     </a>
     <!-- Mongo -->
     <a href='https://www.mongodb.com/' target='_blank'>
-        <img src="./images/mongo.png" width='53' height='42'>
+        <img src="./images/mongo.png" width='53' height='40'>
     </a>
     <!-- PHP -->
     <a href='https://www.php.net/' target='_blank'>
@@ -111,19 +111,19 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín  🇨🇴. Full Stack software
     </a>
     <!-- Leptos -->
     <a href='https://leptos.dev/' target='_blank'>
-        <img src="./images/leptos.png" width='40' height='35'>
+        <img src="./images/leptos.png" width='38' height='35'>
     </a>
     <!-- Livewire -->
     <a href='https://livewire.laravel.com/' target='_blank'>
-        <img src="./images/livewire.png" width='40' height='40'>
+        <img src="./images/livewire.png" width='40' height='38'>
     </a>
     <!-- Laravel -->
     <a href='https://laravel.com/' target='_blank'>
-        <img src="./images/laravel.png" width='40' height='40'>
+        <img src="./images/laravel.png" width='38' height='38'>
     </a>
     <!-- Handlebars -->
     <a href='https://handlebarsjs.com/' target='_blank'>
-        <img src="./images/handlebars.png" width='45' height='38'>
+        <img src="./images/handlebars.png" width='48' height='36'>
     </a>
     <!-- Pug -->
     <a href='https://pugjs.org/api/getting-started.html' target='_blank'>
