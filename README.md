@@ -26,42 +26,42 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín 🇨🇴. Full Stack software 
 <p align='center'>
 <!-- Bash -->
 <a href='https://www.gnu.org/software/bash/bash.html'>
-<img src="./images/bash.png" width='70' height='65'>
+<img src="./images/bash.png" width='50' height='50'>
 </a>
 |
 <!-- Rust -->
 <a href='https://www.rust-lang.org/' target='_blank'>
-    <img src="./images/rust.png" width='70' height='66'>
+    <img src="./images/rust.png" width='55' height='55'>
 </a>
 |
 <!-- Kotlin -->
 <a href='https://kotlinlang.org/' target='_blank'>
-    <img src="./images/kotlin.png" width='55' height='58'>
+    <img src="./images/kotlin.png" width='45' height='48'>
 </a>
 |
 <!-- JS -->
 <a href='https://developer.mozilla.org/en/docs/Web/JavaScript'>
-<img src="./images/js.png" width='60' height='60'>
+<img src="./images/js.png" width='50' height='50'>
 </a>
 |
 <!-- TS -->
 <a href='https://www.typescriptlang.org/' target='_blank'>
-<img src="./images/ts.png" width='60' height='60'>
+<img src="./images/ts.png" width='50' height='50'>
 </a>
 |
 <!-- PHP -->
 <a href='https://www.php.net/' target='_blank'>
-    <img src="./images/php.png" width='65' height='62'>
+    <img src="./images/php.png" width='55' height='53'>
 </a>
 |
 <!-- HTML -->
 <a href='https://developer.mozilla.org/en/docs/Web/HTML' target='_blank'>
-    <img src="./images/html.png" width='55' height='60'>
+    <img src="./images/html.png" width='45' height='50'>
 </a>
 |
 <!-- CSS -->
 <a href='https://developer.mozilla.org/en-US/docs/Web/CSS' target='_blank'>
-    <img src="./images/css.png" width='55' height='60'>
+    <img src="./images/css.png" width='45' height='50'>
 </a>
 </p>
 <br>
@@ -69,82 +69,82 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín 🇨🇴. Full Stack software 
 <p align='center'>
 <!-- Actix -->
 <a href='https://actix.rs/' target='_blank'>
-    <img src="./images/actix.png" width='70' height='65'>
+    <img src="./images/actix.png" width='50' height='50'>
 </a>
 |
 <!-- Express -->
 <a href='https://expressjs.com/' target='_blank'>
-    <img src="./images/express.png" width='65' height='65'>
+    <img src="./images/express.png" width='55' height='55'>
 </a>
 |
 <!-- NestJS -->
 <a href='https://nestjs.com/' target='_blank'>
-    <img src="./images/nest.png" width='65' height='65'>
+    <img src="./images/nest.png" width='50' height='50'>
 </a>
 |
 <!-- React -->
 <a href='https://react.dev/' target='_blank'>
-    <img src="./images/react.png" width='65' height='65'>
+    <img src="./images/react.png" width='50' height='50'>
 </a>
 |
 <!-- Next -->
 <a href='https://nextjs.org/' target='_blank'>
-    <img src="./images/next.png" width='63' height='63'>
+    <img src="./images/next.png" width='50' height='50'>
 </a>
 |
 <!-- Angular -->
 <a href='https://angular.dev/' target='_blank'>
-    <img src="./images/angular.png" width='60' height='60'>
+    <img src="./images/angular.png" width='50' height='50'>
 </a>
 |
 <!-- Vue -->
 <a href='https://vuejs.org/' target='_blank'>
-    <img src="./images/vue.png" width='65' height='65'>
+    <img src="./images/vue.png" width='50' height='47'>
 </a>
 |
 <!-- Laravel -->
 <a href='https://laravel.com/' target='_blank'>
-    <img src="./images/laravel.png" width='65' height='65'>
+    <img src="./images/laravel.png" width='50' height='50'>
 </a>
 |
 <!-- Livewire -->
 <a href='https://livewire.laravel.com/' target='_blank'>
-    <img src="./images/livewire.png" width='65' height='65'>
+    <img src="./images/livewire.png" width='55' height='50'>
 </a>
 |
 <!-- Handlebars -->
 <a href='https://handlebarsjs.com/' target='_blank'>
-    <img src="./images/handlebars.png" width='70' height='63'>
+    <img src="./images/handlebars.png" width='60' height='50'>
 </a>
 |
 <!-- Pug -->
 <a href='https://pugjs.org/api/getting-started.html' target='_blank'>
-    <img src="./images/pug.png" width='65' height='65'>
+    <img src="./images/pug.png" width='55' height='55'>
 </a>
 |
 <!-- Leptos -->
 <a href='https://leptos.dev/' target='_blank'>
-    <img src="./images/leptos.png" width='60' height='60'>
+    <img src="./images/leptos.png" width='50' height='50'>
 </a>
 |
 <!-- Yew -->
 <a href='https://yew.rs/' target='_blank'>
-    <img src="./images/yew.png" width='60' height='60'>
+    <img src="./images/yew.png" width='50' height='50'>
 </a>
 |
 <!-- Sass -->
 <a href='https://sass-lang.com/' target='_blank'>
-    <img src="./images/sass.png" width='65' height='60'>
+    <img src="./images/sass.png" width='55' height='50'>
 </a>
 |
 <!-- Bootstrap -->
 <a href='https://getbootstrap.com/' target='_blank'>
-    <img src="./images/bootstrap.png" width='65' height='63'>
+    <img src="./images/bootstrap.png" width='50' height='50'>
 </a>
 |
 <!-- Tailwind -->
 <a href='https://tailwindcss.com/' target='_blank'>
-    <img src="./images/tailwind.png" width='60' height='50'>
+    <img src="./images/tailwind.png" width='55' height='43'>
 </a>
 </p>
 <br>
@@ -152,27 +152,37 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín 🇨🇴. Full Stack software 
 <p align='center'>
 <!-- Mysql -->
 <a href='https://www.mysql.com/' target='_blank'>
-    <img src="./images/mysql.png" width='85' height='75'>
+    <img src="./images/mysql.png" width='60' height='55'>
 </a>
 |
 <!-- MariaDB -->
 <a href='https://mariadb.org/'>
-    <img src="./images/maria.png" width='65' height='65'>
+    <img src="./images/maria.png" width='50' height='50'>
 </a>
 |
 <!-- Postgres -->
 <a href='https://www.postgresql.org/' target='_blank'>
-    <img src="./images/pgsql.png" width='65' height='65'>
+    <img src="./images/pgsql.png" width='55' height='50'>
+</a>
+|
+<!-- Postgres -->
+<a href='https://www.postgresql.org/' target='_blank'>
+    <img src="./images/oracle.png" width='50' height='50'>
+</a>
+|
+<!-- Postgres -->
+<a href='https://www.postgresql.org/' target='_blank'>
+    <img src="./images/sqlserver.png" width='50' height='50'>
 </a>
 |
 <!-- Mongo -->
 <a href='https://www.mongodb.com/' target='_blank'>
-    <img src="./images/mongo.png" width='75' height='70'>
+    <img src="./images/mongo.png" width='75' height='50'>
 </a>
 |
 <!-- Redis -->
 <a href='https://redis.io/' target='_blank'>
-    <img src="./images/redis.webp" width='65' height='60'>
+    <img src="./images/redis.webp" width='50' height='50'>
 </a>
 </p>
 
@@ -181,32 +191,32 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín 🇨🇴. Full Stack software 
 <p align='center'>
 <!-- Node -->
 <a href='https://nodejs.org/' target='_blank'>
-    <img src="./images/node.png" width='60' height='60'>
+    <img src="./images/node.png" width='50' height='50'>
 </a>
 |
 <!-- Android -->
 <a href='https://nodejs.org/' target='_blank'>
-    <img src="./images/android.png" width='65' height='60'>
+    <img src="./images/android.png" width='50' height='50'>
 </a>
 |
 <!-- GIT -->
 <a href='https://git-scm.com/' target='_blank'>
-    <img src="./images/git.png" width='65' height='65'>
+    <img src="./images/git.png" width='55' height='50'>
 </a>
 |
 <!-- Docker -->
 <a href='https://www.docker.com/' target='_blank'>
-    <img src="./images/docker.png" width='75' height='65'>
+    <img src="./images/docker.png" width='55' height='50'>
 </a>
 |
 <!-- Docker -->
 <a href='https://www.docker.com/' target='_blank'>
-    <img src="./images/tux.png" width='70' height='65'>
+    <img src="./images/tux.png" width='50' height='55'>
 </a>
 |
 <!-- Docker -->
 <a href='https://www.docker.com/' target='_blank'>
-    <img src="./images/arch.png" width='70' height='65'>
+    <img src="./images/arch.png" width='50' height='50'>
 </a>
 </p><br><br>
 <!-- Jest --
