@@ -1,19 +1,3 @@
-<!--
-<h3>Hi there 👋
-**JhoemSoftware/JhoemSoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- <p align='center'>
-	<img src="https://i.ibb.co/hcjmvZL/jhonem-Azul.png" width='43' height='42'>
-</p> -->
 <p align='center'>
 	<img src="https://raw.githubusercontent.com/JhoemSoftware/JhoemSoftwareWebReact/master/public/jhoemAzul.webp" style="width: 210px;">
 </p>
@@ -22,6 +6,8 @@ Here are some ideas to get you started:
 
 Hi 👋🏼! I'm Jhon Alex Marín, from Medellín 🇨🇴. Full Stack software developer with experience in the implementation of information systems and web development with this skills 👨🏻‍💻
 
+<!-- Languages -->
+<div>
 <h3 align='center'>Languages 📒</h3>
 <p align='center'>
 <!-- Bash -->
@@ -64,7 +50,12 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín 🇨🇴. Full Stack software 
     <img src="./images/css.png" width='45' height='50'>
 </a>
 </p>
+</div>
+
 <br>
+
+<!-- Frameworks -->
+<div>
 <h3 align='center'>Frameworks & Libraries 🧰</h3>
 <p align='center'>
 <!-- Actix -->
@@ -147,7 +138,12 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín 🇨🇴. Full Stack software 
     <img src="./images/tailwind.png" width='55' height='43'>
 </a>
 </p>
+</div>
+
 <br>
+
+<!-- Databeses -->
+<div>
 <h3 align='center'>Databases Languages & Motors 💾</h3>
 <p align='center'>
 <!-- Mysql -->
@@ -185,8 +181,12 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín 🇨🇴. Full Stack software 
     <img src="./images/redis.webp" width='50' height='50'>
 </a>
 </p>
+</div>
 
 <br>
+
+<!-- Tecnologies -->
+<div>
 <h3 align='center'>Other skills & Technologies ℹ️</h3>
 <p align='center'>
 <!-- Node -->
@@ -218,21 +218,17 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín 🇨🇴. Full Stack software 
 <a href='https://www.docker.com/' target='_blank'>
     <img src="./images/arch.png" width='50' height='50'>
 </a>
-</p><br><br>
-<!-- Jest --
-<img src="./images/jest.png" width='40' height='42'>
+</p>
+</div>
 
-<!-- Sql Server --
-<img src="./images/sqlserver.png" width='40' height='38'>
-<!-- Oracle --
-<img src="./images/oracle.png" width='38' height='38'>
--->
+<br><br>
 
+<!-- Social media -->
+<div>
 <p align='center'>
     No le digas a Dios que tan grande es el bug 🐞, muéstrale al bug ... que tan grande es <b>Dios</b> 😀
     <br><a href="https://jhoemsoftware.netlify.app/" target="_blank" align='center'>jhoemsoftware.com</a>
 </p>
-
 <p align='center'>
     <a href="https://twitter.com/JhoemLive" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
@@ -247,4 +243,22 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín 🇨🇴. Full Stack software 
         <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
     </a>
 </p>
+</div>
 <hr>
+
+<!--
+<h3>Hi there 👋
+**JhoemSoftware/JhoemSoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<!-- <p align='center'>
+	<img src="https://i.ibb.co/hcjmvZL/jhonem-Azul.png" width='43' height='42'>
+</p> -->
