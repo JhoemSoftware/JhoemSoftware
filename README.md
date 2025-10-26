@@ -16,12 +16,12 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín 🇨🇴. Full Stack software 
 </a>
 |
 <!-- Rust -->
-<a href='https://www.rust-lang.org/' target='_blank'>
+<a href='https://www.rust-lang.org/'>
     <img src="./images/rust.png" width='55' height='55'>
 </a>
 |
 <!-- Kotlin -->
-<a href='https://kotlinlang.org/' target='_blank'>
+<a href='https://kotlinlang.org/'>
     <img src="./images/kotlin.png" width='45' height='48'>
 </a>
 |
@@ -31,22 +31,22 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín 🇨🇴. Full Stack software 
 </a>
 |
 <!-- TS -->
-<a href='https://www.typescriptlang.org/' target='_blank'>
+<a href='https://www.typescriptlang.org/'>
 <img src="./images/ts.png" width='50' height='50'>
 </a>
 |
 <!-- PHP -->
-<a href='https://www.php.net/' target='_blank'>
+<a href='https://www.php.net/'>
     <img src="./images/php.png" width='55' height='53'>
 </a>
 |
 <!-- HTML -->
-<a href='https://developer.mozilla.org/en/docs/Web/HTML' target='_blank'>
+<a href='https://developer.mozilla.org/en/docs/Web/HTML'>
     <img src="./images/html.png" width='45' height='50'>
 </a>
 |
 <!-- CSS -->
-<a href='https://developer.mozilla.org/en-US/docs/Web/CSS' target='_blank'>
+<a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
     <img src="./images/css.png" width='45' height='50'>
 </a>
 </p>
@@ -59,82 +59,82 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín 🇨🇴. Full Stack software 
 <h3 align='center'>Frameworks & Libraries 🧰</h3>
 <p align='center'>
 <!-- Actix -->
-<a href='https://actix.rs/' target='_blank'>
+<a href='https://actix.rs/'>
     <img src="./images/actix.png" width='50' height='50'>
 </a>
 |
 <!-- Express -->
-<a href='https://expressjs.com/' target='_blank'>
+<a href='https://expressjs.com/'>
     <img src="./images/express.png" width='55' height='55'>
 </a>
 |
 <!-- NestJS -->
-<a href='https://nestjs.com/' target='_blank'>
+<a href='https://nestjs.com/'>
     <img src="./images/nest.png" width='50' height='50'>
 </a>
 |
 <!-- React -->
-<a href='https://react.dev/' target='_blank'>
+<a href='https://react.dev/'>
     <img src="./images/react.png" width='50' height='50'>
 </a>
 |
 <!-- Next -->
-<a href='https://nextjs.org/' target='_blank'>
+<a href='https://nextjs.org/'>
     <img src="./images/next.png" width='50' height='50'>
 </a>
 |
 <!-- Angular -->
-<a href='https://angular.dev/' target='_blank'>
+<a href='https://angular.dev/'>
     <img src="./images/angular.png" width='50' height='50'>
 </a>
 |
 <!-- Vue -->
-<a href='https://vuejs.org/' target='_blank'>
+<a href='https://vuejs.org/'>
     <img src="./images/vue.png" width='50' height='47'>
 </a>
 |
 <!-- Laravel -->
-<a href='https://laravel.com/' target='_blank'>
+<a href='https://laravel.com/'>
     <img src="./images/laravel.png" width='50' height='50'>
 </a>
 |
 <!-- Livewire -->
-<a href='https://livewire.laravel.com/' target='_blank'>
+<a href='https://livewire.laravel.com/'>
     <img src="./images/livewire.png" width='55' height='50'>
 </a>
 |
 <!-- Handlebars -->
-<a href='https://handlebarsjs.com/' target='_blank'>
+<a href='https://handlebarsjs.com/'>
     <img src="./images/handlebars.png" width='60' height='50'>
 </a>
 |
 <!-- Pug -->
-<a href='https://pugjs.org/api/getting-started.html' target='_blank'>
+<a href='https://pugjs.org/api/getting-started.html'>
     <img src="./images/pug.png" width='55' height='55'>
 </a>
 |
 <!-- Leptos -->
-<a href='https://leptos.dev/' target='_blank'>
+<a href='https://leptos.dev/'>
     <img src="./images/leptos.png" width='50' height='50'>
 </a>
 |
 <!-- Yew -->
-<a href='https://yew.rs/' target='_blank'>
+<a href='https://yew.rs/'>
     <img src="./images/yew.png" width='50' height='50'>
 </a>
 |
 <!-- Sass -->
-<a href='https://sass-lang.com/' target='_blank'>
+<a href='https://sass-lang.com/'>
     <img src="./images/sass.png" width='55' height='50'>
 </a>
 |
 <!-- Bootstrap -->
-<a href='https://getbootstrap.com/' target='_blank'>
+<a href='https://getbootstrap.com/'>
     <img src="./images/bootstrap.png" width='50' height='50'>
 </a>
 |
 <!-- Tailwind -->
-<a href='https://tailwindcss.com/' target='_blank'>
+<a href='https://tailwindcss.com/'>
     <img src="./images/tailwind.png" width='55' height='43'>
 </a>
 </p>
@@ -147,7 +147,7 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín 🇨🇴. Full Stack software 
 <h3 align='center'>Databases Languages & Motors 💾</h3>
 <p align='center'>
 <!-- Mysql -->
-<a href='https://www.mysql.com/' target='_blank'>
+<a href='https://www.mysql.com/'>
     <img src="./images/mysql.png" width='60' height='55'>
 </a>
 |
@@ -157,27 +157,27 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín 🇨🇴. Full Stack software 
 </a>
 |
 <!-- Postgres -->
-<a href='https://www.postgresql.org/' target='_blank'>
+<a href='https://www.postgresql.org/'>
     <img src="./images/pgsql.png" width='55' height='50'>
 </a>
 |
-<!-- Postgres -->
-<a href='https://www.postgresql.org/' target='_blank'>
+<!-- Oracle  -->
+<a href='https://www.oracle.com/database/technologies/appdev/sql.html/'>
     <img src="./images/oracle.png" width='50' height='50'>
 </a>
 |
-<!-- Postgres -->
-<a href='https://www.postgresql.org/' target='_blank'>
+<!-- SqlServer -->
+<a href='https://www.microsoft.com/en-us/sql-server/'>
     <img src="./images/sqlserver.png" width='50' height='50'>
 </a>
 |
 <!-- Mongo -->
-<a href='https://www.mongodb.com/' target='_blank'>
+<a href='https://www.mongodb.com/'>
     <img src="./images/mongo.png" width='75' height='50'>
 </a>
 |
 <!-- Redis -->
-<a href='https://redis.io/' target='_blank'>
+<a href='https://redis.io/'>
     <img src="./images/redis.webp" width='50' height='50'>
 </a>
 </p>
@@ -190,34 +190,34 @@ Hi 👋🏼! I'm Jhon Alex Marín, from Medellín 🇨🇴. Full Stack software 
 <h3 align='center'>Other skills & Technologies ℹ️</h3>
 <p align='center'>
 <!-- Node -->
-<a href='https://nodejs.org/' target='_blank'>
+<a href='https://nodejs.org/'>
     <img src="./images/node.png" width='50' height='50'>
 </a>
 |
-<!-- Android -->
-<a href='https://nodejs.org/' target='_blank'>
-    <img src="./images/android.png" width='50' height='50'>
-</a>
-|
 <!-- GIT -->
-<a href='https://git-scm.com/' target='_blank'>
+<a href='https://git-scm.com/'>
     <img src="./images/git.png" width='55' height='50'>
 </a>
 |
 <!-- Docker -->
-<a href='https://www.docker.com/' target='_blank'>
+<a href='https://www.docker.com/'>
     <img src="./images/docker.png" width='55' height='50'>
 </a>
+<!-- Linux --
 |
-<!-- Docker -->
-<a href='https://www.docker.com/' target='_blank'>
+<!-- <a href='https://www.docker.com/'>
     <img src="./images/tux.png" width='50' height='55'>
 </a>
 |
-<!-- Docker -->
-<a href='https://www.docker.com/' target='_blank'>
-    <img src="./images/arch.png" width='50' height='50'>
+<!-- Android --
+<a href='https://developer.android.com/'>
+    <img src="./images/android.png" width='50' height='50'>
 </a>
+|
+<!-- ArchLinux --
+<a href='https://www.docker.com/'>
+    <img src="./images/arch.png" width='50' height='50'>
+</a> -->
 </p>
 </div>
 
