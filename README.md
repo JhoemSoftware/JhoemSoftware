@@ -82,8 +82,6 @@ Pending:
       <img src="./images/handlebars.png" alt="Handlebars" width="50" height="50">
     </picture>
   </a> |
-  <a href="https://pugjs.org/"><img src="./images/pug.png" alt="Pug" width="50" height="50"></a> |
-  <a href="https://sass-lang.com/"><img src="./images/sass.png" alt="Sass" width="50" height="50"></a> |
   <a href="https://actix.rs/"><img src="./images/actix.png" alt="Actix Web" width="50" height="50"></a> |
   <a href="https://leptos.dev/"><img src="./images/leptos.png" alt="Leptos" width="50" height="50"></a> |
   <a href="https://yew.rs/"><img src="./images/yew.png" alt="Yew" width="50" height="50"></a>
