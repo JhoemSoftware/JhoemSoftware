@@ -37,15 +37,20 @@ Pending:
 <!-- Languages -->
 <h3 align="center">Languages 📒</h3>
 <p align="center">
-  <a href="https://www.rust-lang.org/"><img src="./images/rust.png" alt="Rust" width="50" height="50"></a> |
   <a href="https://www.typescriptlang.org/"><img src="./images/ts.png" alt="TypeScript" width="50" height="50"></a> |
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./images/js.png" alt="JavaScript" width="50" height="50"></a> |
   <a href="https://www.php.net/"><img src="./images/php.png" alt="PHP" width="50" height="50"></a> |
-  <a href="https://kotlinlang.org/"><img src="./images/kotlin.png" alt="Kotlin" width="50" height="50"></a> |
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./images/html.png" alt="HTML" width="50" height="50"></a> |
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./images/css.png" alt="CSS" width="50" height="50"></a> |
-  <a href="https://www.python.org/"><img src="./images/python.png" alt="Python" width="50" height="50"></a> |
+  <a href="https://kotlinlang.org/"><img src="./images/kotlin.png" alt="Kotlin" width="50" height="50"></a> |
   <a href="https://www.gnu.org/software/bash/"><img src="./images/bash.png" alt="Bash" width="50" height="50"></a>
+</p>
+
+<!-- Languages: learning -->
+<p align="center"><b>Currently learning</b></p>
+<p align="center">
+  <a href="https://www.rust-lang.org/"><img src="./images/rust.png" alt="Rust" width="50" height="50"></a> |
+  <a href="https://www.python.org/"><img src="./images/python.png" alt="Python" width="50" height="50"></a>
 </p>
 
 <!-- Frameworks: main -->
@@ -71,17 +76,17 @@ Pending:
   </a> |
   <a href="https://nextjs.org/"><img src="./images/next.png" alt="Next.js" width="50" height="50"></a> |
   <a href="https://vuejs.org/"><img src="./images/vue.png" alt="Vue.js" width="50" height="50"></a> |
-  <a href="https://actix.rs/"><img src="./images/actix.png" alt="Actix Web" width="50" height="50"></a> |
-  <a href="https://leptos.dev/"><img src="./images/leptos.png" alt="Leptos" width="50" height="50"></a> |
-  <a href="https://yew.rs/"><img src="./images/yew.png" alt="Yew" width="50" height="50"></a> |
-  <a href="https://sass-lang.com/"><img src="./images/sass.png" alt="Sass" width="50" height="50"></a> |
   <a href="https://handlebarsjs.com/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/handlebars-dark.png">
       <img src="./images/handlebars.png" alt="Handlebars" width="50" height="50">
     </picture>
   </a> |
-  <a href="https://pugjs.org/"><img src="./images/pug.png" alt="Pug" width="50" height="50"></a>
+  <a href="https://pugjs.org/"><img src="./images/pug.png" alt="Pug" width="50" height="50"></a> |
+  <a href="https://sass-lang.com/"><img src="./images/sass.png" alt="Sass" width="50" height="50"></a> |
+  <a href="https://actix.rs/"><img src="./images/actix.png" alt="Actix Web" width="50" height="50"></a> |
+  <a href="https://leptos.dev/"><img src="./images/leptos.png" alt="Leptos" width="50" height="50"></a> |
+  <a href="https://yew.rs/"><img src="./images/yew.png" alt="Yew" width="50" height="50"></a>
 </p>
 
 <!-- Databases -->
